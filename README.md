@@ -1,6 +1,6 @@
 <div align = "center">
 <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h2 align = "center" >Hi There, I'm João Araújo </h2>
+<h2 align = "center" >Hi, I'm João Araújo </h2>
 <h3><a href="https://www.linkedin.com/in/ptozin/">Check out my LinkedIn</a></h3>
 </div>
 <br>
