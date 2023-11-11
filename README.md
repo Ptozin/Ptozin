@@ -18,7 +18,7 @@
 <h2 align = "center" >Projects</h2>
 <p align = "center">
 
-| UC | Name | Description | Grade (/20) |
+| UC | Name | Description | Grade (*/20) |
 |--|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | PI | [Grafana Visualization tool]() | Integration of the Grafana visualization tool in the Synopsys facilities | 20.0 |
 | IA | [Cohesion Free]() | A board game implemented with several artificial intelligence search algorithms | 20.0  |
@@ -34,11 +34,11 @@
 | PFL | [Ski Jumps]() | 1 vs 1 board game written in Prolog | 18.3 |
 | RCOM | [Local Network Configuration & FTP]() | Configuration of a local network, passing all traffic through a DNS service. <br> File Transfer Protocol with TCP connections. | 18.1 |
 | LBAW | [SportsVerse]() | Web application built on the Laravel framework for an online shop | 18.0 |
-| LCOM | [Top-Down Shooter]() | Single player Top-Down shooter made in the Minix OS | 17.5 |
+| LCOM | [Top-Down Shooter]() | Single player Top-Down shooter made in the Minix | 17.5 |
 | CG | [Computer Graphics Project]() | Open world game written with WebGL and JavaScript | 17.4 |
 | IPC | [Eat UP]() | Ordering meals from UP Canteens has never been easier. Low level prototype of a mobile application | 17.4 |
 | ESOF | [UPMeals]() | Flutter/Dart project for the official UNI App. Finds the available meals on the FEUP campus for the week | 17.2 |
-| LTW | [The Menu]() | The Menu is a website where restaurants can list and offer they menus for take-away. | 17.1 |
+| LTW | [The Menu]() | The Menu is a website where restaurants can list and offer their menus for take-away. | 17.1 |
 
 <!--
 **Ptozin/Ptozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
