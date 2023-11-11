@@ -5,16 +5,6 @@
 </div>
 <br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ptozin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptozin&layout=compact&langs_count=7&theme=dracula"/>   
-</div>
-
-<p align = "center">
-<img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=4293F2">
-<img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
-</p>
-
 <h2 align = "center" >Projects</h2>
 <p align = "center">
 
