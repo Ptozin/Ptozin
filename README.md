@@ -1,15 +1,37 @@
 ![Profile](./media/Profile.gif)
 
 <div align = "center">
-<h2 align = "center" >👋 Hi there! </h2>
+<h2 align = "center" >Hi there! <img src="./socials/wave.gif" align="center" height="30em"></h2>
 <h3 align = "center">Currently pursuing my Masters in Informatics and Computing Engineering @ FEUP</h3>
-<h3><a href="https://www.linkedin.com/in/ptozin/"><img src="./socials/linkedin.png" height="40em" align="center" alt="Follow Ptozin on LinkedIn" title="Follow Ptozin on LinkedIn"/> Check out my LinkedIn</a></h3>
+<h3><a href="https://www.linkedin.com/in/ptozin/"><img src="./socials/LinkedIn.gif" height="40em" align="center" alt="Follow Ptozin on LinkedIn" title="Follow Ptozin on LinkedIn"/> Check out my LinkedIn</a></h3>
 
 </div>
 <br>
 
-<h2 align = "center" >Projects</h2>
-<p align = "center">
+## Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
+
+## Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+
+## Projects @ FEUP
 
 | UC | Name | Description | Grade (*/20) |
 |--|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
