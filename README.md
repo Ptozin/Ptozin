@@ -1,6 +1,6 @@
+![Profile](./media/Profile.gif)
 
 <div align = "center">
-<video src="./media/Profile.mp4" autoplay loop></video>
 <h2 align = "center" >👋 Hi there! </h2>
 <h3 align = "center">Currently pursuing my Masters in Informatics and Computing Engineering @ FEUP</h3>
 <h3><a href="https://www.linkedin.com/in/ptozin/"><img src="./socials/linkedin.png" height="40em" align="center" alt="Follow Ptozin on LinkedIn" title="Follow Ptozin on LinkedIn"/> Check out my LinkedIn</a></h3>
