@@ -3,6 +3,7 @@
 <div align = "center">
 <h2 align = "center" >Hi there! <img src="./socials/wave.gif" align="center" height="30em"></h2>
 <h3 align = "center">Currently pursuing my Masters in Informatics and Computing Engineering @ FEUP</h3>
+<h3 align = "center">Software Engineer @ <a href="https://loopack.pt">Loopack</a></h3>
 <h3><a href="https://www.linkedin.com/in/ptozin/"><img src="./socials/linkedin.png" height="40em" align="center" alt="Follow Ptozin on LinkedIn" title="Follow Ptozin on LinkedIn"/> Check out my LinkedIn</a></h3>
 
 </div>
@@ -24,6 +25,7 @@
 ## Technologies
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Supabase](https://shields.io/badge/Supabase-000?logo=supabase)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
