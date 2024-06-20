@@ -49,6 +49,8 @@
 | RCOM | [Data Link Protocol](https://github.com/Ptozin/3L.EIC025-RCOM/tree/main/Projects/Project%201) | Protocol to test the fidelity of data transfer between machines | 18.3 |
 | PFL | [Polynomials Calculation](https://github.com/Ptozin/3L.EIC024-PFL/tree/main/Projects/Project%201) | Polynomials calculation program written in Haskell | 18.3 |
 | PFL | [Ski Jumps](https://github.com/Ptozin/3L.EIC024-PFL/tree/main/Projects/Project%202) | 1 vs 1 board game written in Prolog | 18.3 |
+| ASMA | [Project 2](https://github.com/Ptozin/1M.EIC009-ASMA/tree/main) | Reinforcement Learning Agents using Gymnasium & Stable Baseline 3 | 18.2 |
+| ASMA | [Project 1](https://github.com/Ptozin/1M.EIC009-ASMA/tree/main) | Multi-agent delivery system using drones | 18.1 |
 | RCOM | [Local Network Configuration & FTP](https://github.com/Ptozin/3L.EIC025-RCOM/tree/main/Projects/Project%202) | Configuration of a local network, passing all traffic through a DNS service. <br> File Transfer Protocol with TCP connections. | 18.1 |
 | LBAW | [SportsVerse](https://github.com/Ptozin/3L.EIC023-LBAW) | Web application built on the Laravel framework for an online shop | 18.0 |
 | LCOM | [Top-Down Shooter](https://github.com/Ptozin/2L.EIC018-LCOM) | Single player Top-Down shooter made in the Minix | 17.5 |
